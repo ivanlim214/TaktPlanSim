@@ -5,8 +5,7 @@ No build step, no server — just open `index.html`.
 
 ## Live Demo
 
-Deploy to GitHub Pages and visit:  
-`https://<your-username>.github.io/<repo-name>/`
+Click the link to start the Demo
 
 ## Features
 
